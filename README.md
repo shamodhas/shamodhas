@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Shamodha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Internet Technologies**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shamodha-s-rathnamalala/MyProfile.git](https://github.com/shamodha-s-rathnamalala/MyProfile.git)
 
 <h3 align="left">Connect with me:</h3>
