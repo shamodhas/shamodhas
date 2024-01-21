@@ -18,10 +18,9 @@
     &nbsp;&nbsp;
 </p>
 
-<h4 align="right">
+<h4 align='right'>
 
 [![](https://visitcount.itsvg.in/api?id=shamodhaSahan&icon=0&color=1)](https://visitcount.itsvg.in)
-
 </h4>
 
 <p align='center'>
@@ -51,12 +50,6 @@
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 </p>
-
-<h4 align='right'>
-
-[![](https://visitcount.itsvg.in/api?id=shamodhaSahan&icon=0&color=1)](https://visitcount.itsvg.in)
-
-</h4>
 
 ### ✍️ Random Dev Quote
 
