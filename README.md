@@ -18,6 +18,12 @@
     &nbsp;&nbsp;
 </p>
 
+<h4 align="right">
+
+[![](https://visitcount.itsvg.in/api?id=shamodhaSahan&icon=0&color=1)](https://visitcount.itsvg.in)
+
+</h4>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamodhaSahan&theme=blue-green&hide_border=true" width="350"></a>
