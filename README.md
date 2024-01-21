@@ -18,6 +18,11 @@
     &nbsp;&nbsp;
 </p>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamodhaSahan&theme=blue-green&hide_border=true" width="350"></a>
@@ -45,10 +50,6 @@
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
 </p>
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <details>
   <summary>🔨 IDEs/Editors</summary>
