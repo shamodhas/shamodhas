@@ -14,8 +14,8 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Next.js<br/>
-🔭 A passionate full stack developer from Sri Lanka
+  🌱 I’m currently learning Next.js<br/>
+  🔭 A passionate full stack developer from Sri Lanka
 
 ## 👩‍💻 Work with:
 
