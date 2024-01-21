@@ -9,8 +9,13 @@
 
 <p align='center'>
   <a href="https://web.facebook.com/shamodha.shamabro.rathnamalala/">
-    <img src="https://img.shields.io/badge/Shamodha_S_Rathnamalala-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shamodha_s/" target="_blank">
-    <img src="https://img.shields.io/badge/shamodha_s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shamodha-rathnamalala-21b079193/"><img src="https://img.shields.io/badge/Shamodha_Rathnamalala-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Shamodha_S_Rathnamalala-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/shamodha_s/" target="_blank">
+    <img src="https://img.shields.io/badge/shamodha_s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/shamodha-rathnamalala-21b079193/"><img src="https://img.shields.io/badge/Shamodha_Rathnamalala-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    &nbsp;&nbsp;
 </p>
 
 <p align='center'>
