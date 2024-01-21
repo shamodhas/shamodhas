@@ -13,10 +13,10 @@
 <h1 align="center">Hi 👋, I'm Shamodha</h1>
 
 # 💫 About Me:
-
+<h4 style="margin-left: 30px">
   🌱 I’m currently learning Next.js<br/>
   🔭 A passionate full stack developer from Sri Lanka
-
+</h4>
 ## 👩‍💻 Work with:
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
