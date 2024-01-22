@@ -19,9 +19,14 @@
     <img src="https://img.shields.io/badge/Shamodha_Rathnamalala-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<!-- status 1 -->
+<div align='center'>
+  
+</div>
 <!-- random -->
 <div align='center'>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"  height="150">
 </div>
 <!-- My workspace -->
 <div align='center'>
@@ -44,9 +49,8 @@
   </a>
   <br/><br/>
 </div>
-<!-- status -->
+<!-- status 2 -->
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"  height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamodhaSahan&theme=blue-green&hide_border=true" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamodhaSahan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150">
 </div>
