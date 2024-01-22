@@ -21,7 +21,7 @@
 </p>
 <!-- random -->
 <div align='center'>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="50%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 <!-- My workspace -->
 <div align='center'>
