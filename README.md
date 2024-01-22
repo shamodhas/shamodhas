@@ -1,55 +1,55 @@
 <h1 align='center'> Hi there 👋 I'm Shamodha 👨‍💻</h1>
-
 <p align='center'>
     A full stack developer from Sri Lanka
 </p>
 <p align='center'>
     🌱 I’m currently learning Next.js
 </p>
-
+<!-- social -->
 <p align='center'>
   <a href="https://web.facebook.com/shamodha.shamabro.rathnamalala/">
-    <img src="https://img.shields.io/badge/Shamodha_S_Rathnamalala-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Shamodha_S_Rathnamalala-%234285F4.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/shamodha_s/" target="_blank">
-    <img src="https://img.shields.io/badge/shamodha_s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/shamodha_s/" target="_blank">
+    <img src="https://img.shields.io/badge/shamodha_s-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/shamodha-rathnamalala-21b079193/"><img src="https://img.shields.io/badge/Shamodha_Rathnamalala-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;&nbsp;
-</p>
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shamodhaSahan&theme=blue-green&hide_border=true" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamodhaSahan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350">
+  <a href="https://www.linkedin.com/in/shamodha-rathnamalala-21b079193/">
+    <img src="https://img.shields.io/badge/Shamodha_Rathnamalala-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
+<!-- random -->
+<div align='center'>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="50%">
+</div>
+<!-- My workspace -->
+<div align='center'>
+  <h3>💻 My workspace</h3>
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-mx%20150-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:shamodhasrathnamalala@gmail.com'>shamodhasrathnamalala@gmail.com</a>
-</p>
-
-<p align='center'>
+  <h4>Do you like my open source projects? 
+    <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  </h4>
+  <h4>📫 How to reach me: 
+    <a href='mailto:shamodhasrathnamalala@gmail.com'>shamodhasrathnamalala@gmail.com</a>
+  </h4>
+  <h4>💻 Mobile</h4>
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-</p>
+  <a href="">
+    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+  </a>
+  <br/><br/>
+</div>
+<!-- status -->
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"  height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamodhaSahan&theme=blue-green&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamodhaSahan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150">
+</div>
 
 <details>
   <summary>🔨 IDEs/Editors</summary>
