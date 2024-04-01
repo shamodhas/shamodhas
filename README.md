@@ -1,7 +1,9 @@
 <h1 align='center'> Hi there 👋 I'm Shamodha 👨‍💻</h1>
 <p align='center'>
     A full stack developer from Sri Lanka
-    ( Java, MERN stack )
+</p>
+<p align='center'>
+    Experienced developer with both Java full-stack and MERN stack
 </p>
 <p align='center'>
     🌱 I’m currently learning Next.js
