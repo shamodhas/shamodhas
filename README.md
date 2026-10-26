@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   <img src="https://img.shields.io/badge/Acer%20Aspire%2015-%23000000.svg?&style=for-the-badge&logo=acer&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20Core%20i5%2014th%20Gen-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB%20LPDDR5-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB%20LPDDR5-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SSD-512GB%20NVMe-%2376B900.svg?&style=for-the-badge&logoColor=white" />
   
   <h4>📫 How to reach me: 
