@@ -42,7 +42,6 @@
   </h4>
   <h4>💻 Mobile Ecosystem</h4>
   <img src="https://img.shields.io/badge/Apple%20iPhone-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hutch%20eSIM-F58220?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Dialog-EF3E42?style=for-the-badge&logoColor=white" />
   <br/><br/>
 </div>
